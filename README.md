@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BilibiliSheepCode.A uploader on Bilibili.com.
+- 👀 I’m interested in coding and minecraft.
+- 🌱 I’m currently learning Java,C,C++,Javascript,PHP,HTML,CSS,Python.
+- 📫 How to reach me scode2007@outlook.com
